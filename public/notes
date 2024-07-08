@@ -1,0 +1,19 @@
+15/06/24
+
+        install node
+        npx for temprary use package creating react app
+        npm for permenent use
+        npm create-react-app appname command for creating new app
+        npm start for run app , check diractory before start the app
+
+16/06/24
+        bootstrap setup
+        class based components and function based components?
+        default export and named export?
+        pops
+        proptype : impt and pts, ptn
+
+
+17/06/24
+        
+        default props:Used to set default values in props
